@@ -1,0 +1,28 @@
+{
+    "require": {
+        "silex/silex": "~1.1",
+		"twig/twig": ">=1.8,<2.0-dev",
+		"symfony/twig-bridge": "~2.3",
+		"swiftmailer/swiftmailer": ">=4.1.2,<4.2-dev",
+		"dflydev/doctrine-orm-service-provider": "1.0.*@dev",
+		"gedmo/doctrine-extensions": "dev-master",
+		"neutron/silex-imagine-provider": "dev-master",
+		"deralex/yaml-config-service-provider": "1.0.x-dev",
+		"swiftmailer/swiftmailer": ">=4.1.2,<4.2-dev",
+		"kilte/silex-captcha": "dev-master",
+		"symfony/security": "~2.3",
+		"silex/web-profiler": "~1.0",
+		"symfony/translation": "~2.3",
+		"symfony/config": "~2.3",
+        "symfony/yaml": "~2.3",
+        "symfony/validator": "~2.3",
+        "lexpress/console-service-provider": "dev-master"
+	},
+
+	"autoload": {
+        "psr-0": {
+            "Idev": "src/",
+			"Gedmo": "vendor/gedmo/doctrine-extensions/lib"
+        }
+	}
+}

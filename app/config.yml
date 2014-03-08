@@ -1,0 +1,14 @@
+website:
+  name: %sitename%
+  url: %siteurl%
+
+database:
+    host: %dbhost%
+    user: %dbuser%
+    password: %dbpassword%
+    dbname: %dbname%
+       
+piwik:
+    active: true
+    url: http://piwik.i-dev.fr
+    token: %piwiktoken%
