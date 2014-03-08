@@ -3,7 +3,7 @@
         "This file locks the dependencies of your project to a known state",
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
     ],
-    "hash": "5553c0dc4714fc5b0cbd2a05f7f7c0cf",
+    "hash": "14760ac1989eb4b2d1e6adfa24823d96",
     "packages": [
         {
             "name": "deralex/yaml-config-service-provider",
@@ -677,12 +677,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/l3pp4rd/DoctrineExtensions.git",
-                "reference": "d708b0317b746ad40bf0d9619af01dd76ef947bc"
+                "reference": "af68e0521d8023ebbbb93bbddeaab993dc390412"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/l3pp4rd/DoctrineExtensions/zipball/d708b0317b746ad40bf0d9619af01dd76ef947bc",
-                "reference": "d708b0317b746ad40bf0d9619af01dd76ef947bc",
+                "url": "https://api.github.com/repos/l3pp4rd/DoctrineExtensions/zipball/af68e0521d8023ebbbb93bbddeaab993dc390412",
+                "reference": "af68e0521d8023ebbbb93bbddeaab993dc390412",
                 "shasum": ""
             },
             "require": {
@@ -749,7 +749,7 @@
                 "tree",
                 "uploadable"
             ],
-            "time": "2014-02-24 20:17:49"
+            "time": "2014-03-05 18:13:50"
         },
         {
             "name": "gregwar/captcha",
